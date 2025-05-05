@@ -456,13 +456,7 @@ html {
 }
 
 /* Question style */
-.faq-question {
-  font-size: 1.2rem;
-  font-weight: bold;
-  color: #00ffff;  /* Cyan color for questions */
-  cursor: pointer;
-  transition: color 0.3s;
-}
+
 
 .faq-question:hover {
   color: #00cccc;  /* Light cyan when hovered */
@@ -540,7 +534,7 @@ html {
 
 /* Question style */
 .faq-question {
-  font-size: 1.2rem;
+  font-size: 15px;
   font-weight: bold;
   color: #e3e9e9;  /* Cyan color for questions */
   cursor: pointer;
